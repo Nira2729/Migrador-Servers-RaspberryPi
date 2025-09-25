@@ -12,7 +12,7 @@ Automatiza la migración de mundos Minecraft Bedrock con addons (mods) hacia ser
 ### Instalación local
 
 ```bash
-git clone https://github.com/tu_usuario/migrador-bedrock.git
+git clone https://github.com/Nira2729/migrador-bedrock.git
 cd migrador-bedrock
 pip install .
 ```
@@ -95,5 +95,6 @@ migrador_bedrock/
 
 MIT — libre para modificar, distribuir y mejorar.
 ```
+
 
 
